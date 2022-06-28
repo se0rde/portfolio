@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+.review-text::before {
+    content: url(https://learn.algoritmika.org/uploads/student/1290296/4-1656407924.png);
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    padding-right: 5px;
+}
+
+.review-text {
+    font-size: 20px;
+}
+
+a {
+    font-size: 20px;
+}
+
+footer {
+    padding: 20px;
+}
+
+.social {
+    padding-right: 15px;
+}
