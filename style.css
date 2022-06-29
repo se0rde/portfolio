@@ -34,3 +34,10 @@ header {
     padding: 10px;
     background-image: linear-gradient(to right, #FFE4C4, #D2B48C);
 }
+
+main img:hover {
+    transform: scale(1.5);
+    border: 5px solid royalblue;
+    border-radius: 6px;
+    transition: 1s ease-in-out;
+}
