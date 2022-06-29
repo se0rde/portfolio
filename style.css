@@ -29,3 +29,8 @@ footer {
 h1 {
     text-shadow: 5px 6px 5px royalblue;
 }
+
+header {
+    padding: 10px;
+    background-image: linear-gradient(to right, #FFE4C4, #D2B48C);
+}
